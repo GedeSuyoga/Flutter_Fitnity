@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908433508288",
+    "project_id": "fitnityapp-766f6",
+    "storage_bucket": "fitnityapp-766f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908433508288:android:4be90282874fe657122a25",
+        "android_client_info": {
+          "package_name": "com.example.fitnityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-XB1PiuGtbal55Bcw-qH92-ilJsHjAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
