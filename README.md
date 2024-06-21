@@ -13,17 +13,3 @@ Fitnity app aims to address the challenges of maintaining a healthy and active l
 |![Screenshot 2024-06-21 063310](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/a941b442-7d3c-4bfc-8024-9749a1483507)|![Screenshot 2024-06-21 063407](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/7b7062bc-0459-4e59-b47c-eb6ba8dbcad1)|
 |![Screenshot 2024-06-21 063501](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/cb07aa72-cb24-487d-9760-df2b59171afa)|![Screenshot 2024-06-21 063533](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/82dca2cc-d58f-4339-a72c-689ef5113b61)|
 |![Screenshot 2024-06-21 063623](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/c317ce04-4efb-4dd0-a33a-4d34d4e7d060)|![Screenshot 2024-06-21 063711](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/0be839fe-07dc-490e-9afe-00dbfea2015c)|
-
-
-
-
-
-
-
-## Getting Started
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
