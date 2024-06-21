@@ -4,9 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplikasi Fitnity bertujuan untuk mengatasi tantangan dalam menjaga gaya hidup sehat dan aktif di masyarakat. Permasalahan utama yang dihadapi adalah kurangnya motivasi dan dukungan untuk konsisten berolahraga serta keterbatasan akses terhadap informasi yang relevan mengenai kebugaran dan nutrisi. Fitnity menawarkan solusi dengan menyediakan platform yang memungkinkan pengguna terhubung dengan komunitas olahraga, berbagi pengalaman, mendapatkan motivasi, dan mengakses informasi kebugaran dan nutrisi yang bermanfaat.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
