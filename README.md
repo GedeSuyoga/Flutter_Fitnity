@@ -8,6 +8,7 @@ Fitnity app aims to address the challenges of maintaining a healthy and active l
 
 ## Screenshot
 |![Screenshot 2024-06-21 063814](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/847cdea9-6bf0-4c4e-9ae0-d73faf4daf4d)|![Screenshot 2024-06-21 063840](https://github.com/GedeSuyoga/Flutter_Fitnity/assets/173435463/eeae6559-989a-466a-b87d-00ce4844ee94)|
+|---|---|
 
 
 
